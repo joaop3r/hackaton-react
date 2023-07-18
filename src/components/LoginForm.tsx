@@ -10,7 +10,7 @@ export const LoginForm =({onAdd}:Props)=>{
     const handleEmailChange =(e:ChangeEvent<HTMLInputElement>)=>{
         setEmail(e.target.value);
     }
-
+ 
     const [password, setPassword] = useState('')
     
     const handlePasswordChange =(e:ChangeEvent<HTMLInputElement>)=>{

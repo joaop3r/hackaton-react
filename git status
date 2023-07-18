@@ -1,0 +1,29 @@
+[33mcommit 4f6147d61afe65b0bd64166d5a7720ee7b533b74[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: joaop3r <136655771+joaop3r@users.noreply.github.com>
+Date:   Tue Jul 18 11:34:13 2023 -0300
+
+    Criação do componente LoginForm com o objetivo de deixar todas as validações dentro do componente
+
+[33mcommit d5121e6ae8319ef2c0568ee454b150b5776099c7[m
+Author: joaop3r <136655771+joaop3r@users.noreply.github.com>
+Date:   Mon Jul 17 12:01:46 2023 -0300
+
+    Criação do arquivo api, responsável pelas requisições do projeto
+
+[33mcommit 609fcfb70c9a3eaacaca2bdbb647a3f9435b150a[m
+Author: joaop3r <136655771+joaop3r@users.noreply.github.com>
+Date:   Mon Jul 17 11:19:58 2023 -0300
+
+    Criação do componente PostForm
+
+[33mcommit 3c709ab44afd30596d61316e2e8f5e0f8964fbbf[m
+Author: joaop3r <136655771+joaop3r@users.noreply.github.com>
+Date:   Sun Jul 16 17:24:41 2023 -0300
+
+    Criando as páginas para teste do react router dom
+
+[33mcommit a411b7e51941a1e34a11c46e514db5acfbc4abaa[m
+Author: joaop3r <136655771+joaop3r@users.noreply.github.com>
+Date:   Fri Jul 14 10:11:55 2023 -0300
+
+    Initial commit from Create Next App

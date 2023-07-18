@@ -1,9 +1,16 @@
+import { api } from "@/api";
 import { LoginForm } from "@/components/LoginForm";
 
 
 export const Login =()=>{
-    const handleSubmitForm =(email: string, password:string)=>{
-        alert(email +''+password);
+    const handleSubmitForm = async (email: string, password:string)=>{
+        let json = await api.loginPost(email, password,1);
+        if(json.id){
+            alert("Login Realizado com sucesso");
+        }else{
+            alert("Não foi possível realizar o Login");
+        }
+        
     }   
     
     return(
