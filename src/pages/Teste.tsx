@@ -29,10 +29,7 @@ export const Teste = ()=>{
             alert('post adicionado com sucesso!');
         }else {
             alert('ocorreu algum erro');
-        }
-
-       
-           
+        }    
     }
 
     return(
